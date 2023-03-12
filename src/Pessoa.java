@@ -1,5 +1,5 @@
 public class Pessoa {
-    private String nome;
+    public String nome;
     public int idade;
     protected String sexo;
     double peso;
